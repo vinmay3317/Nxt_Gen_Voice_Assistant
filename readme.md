@@ -35,7 +35,7 @@ Welcome to the AI Voice Assistant project! This project is a comprehensive and a
 
 3. **Run the Assistant**:
    ```bash
-   python assistant.py
+   python main.py
    ```
 
 ## Usage
