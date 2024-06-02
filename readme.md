@@ -24,7 +24,7 @@ Welcome to the AI Voice Assistant project! This project is a comprehensive and a
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ai-voice-assistant.git
+   git clone https://github.com/vinmay3317/Nxt_Gen_Voice_Assistant.git
    cd ai-voice-assistant
    ```
 
